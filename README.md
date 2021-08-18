@@ -1,7 +1,7 @@
 # _[Daniel Axford](https://github.com/trojaxat)_
 
 - 🔭 I’m currently working on a Stems project for music collaboration
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently finishing up the implementation of my Stocks App on Docker
 - 📫 How to reach me: feel free to reach me on my LinkedIn profile and/or Gmail  
 
 Studying data science at Spiced Academy, with an emphasis on Data Engineering with a background in biochemistry.
